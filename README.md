@@ -1,4 +1,4 @@
-# GalleryApp (Swift using Native technology)
+# GalleryApp (Swift and Native technology)
 
 
 Presentation layer is in SwitfUI Will work on both iOS (iPhone and iPad) with latest code and with latest design pattern
