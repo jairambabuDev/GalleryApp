@@ -1,8 +1,18 @@
 # GalleryApp (Swift using Native technology)
 
-1  MVVM Architecture pattern Design with Observer design pattern 
-2  First load from memory NSCache used after that will used cached memory and then will get from server 
-3.   
+
+Presentation layer is in SwitfUI Will work on both iOS (iPhone and iPad) with latest code and with latest design pattern
+
+Domain Layer is in MVVM 
+
+Data layer using for URLSessionDataTask default to fetch from server  
+
+1  MVVM Architecture pattern with Observer design pattern 
+2  First load from memory NSCache used after that will used cached memory and then will get from server.
+
+
+
+ Note:-  We can optimised with lazy loading like 10 or 15 items using offset and limit in API response so scroll will be more smooth  
 
 
 Task:
